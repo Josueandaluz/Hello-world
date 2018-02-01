@@ -1,5 +1,4 @@
 # Hello-world
 
-Hola soy superman 
-
-Soy amigo de Goku naruto es mi sobrino 
+In the editor, write about your self
+Write a commit menssage that describe your changes.
